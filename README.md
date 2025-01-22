@@ -53,7 +53,7 @@ D:\code\react\vite-react-application>npm run dev
 
 VITE v6.0.10 ready in 505 ms
 
-➜ Local: http://localhost:5173/
+➜ Local: http://localhost:8080/
 ➜ Network: use --host to expose
 ➜ press h + enter to show help
 
